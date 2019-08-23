@@ -1,0 +1,74 @@
+TMPSTAMP:
+  type: DATETIME
+RECNBR:
+  type: MEDIUMINT
+StmID:
+  type: SMALLINT
+BatMin:
+  type: FLOAT(4, 2)
+Air_T:
+  type: FLOAT(4, 2)
+AvgAir_T:
+  type: FLOAT(4, 2)
+MaxAir_T:
+  type: FLOAT(4, 2)
+MinAir_T:
+  type: FLOAT(4, 2)
+RH:
+  type: FLOAT(5, 2)
+AvgRH:
+  type: FLOAT(5, 2)
+Pluvio_Rain:
+  type: FLOAT(6, 2)
+Pluvio_Rain24RT:
+  type: FLOAT(6, 2)
+WS_10Min:
+  type: FLOAT(6, 3)
+WD_10Min:
+  type: FLOAT(4, 1)
+AvgWS:
+  type: FLOAT(6, 3)
+AvgWD:
+  type: FLOAT(4, 1)
+AvgSD:
+  type: FLOAT(6, 3)
+MaxWS_10:
+  type: FLOAT(6, 3)
+MaxWD_10:
+  type: FLOAT(4, 1)
+MaxWS:
+  type: FLOAT(6, 3)
+HmMaxWS:
+  type: DATETIME
+MaxWD:
+  type: FLOAT(4, 1)
+Max5WS_10:
+  type: FLOAT(6, 3)
+Max5wd_10:
+  type: FLOAT(4, 1)
+WS_2Min:
+  type: FLOAT(6, 3)
+WD_2Min:
+  type: FLOAT(4, 1)
+Soil_T05:
+  type: FLOAT(5, 2)
+AvgRS_kw:
+  type: FLOAT(5, 3)
+TotRS_MJ:
+  type: FLOAT(7, 5)
+TBRG_Rain:
+  type: FLOAT(4, 1)
+TBRG_Rain24RT2:
+  type: FLOAT(4, 1)
+Soil_TP5_TempC:
+  type: FLOAT(5, 2)
+Soil_TP5_VMC:
+  type: FLOAT(5, 2)
+Soil_TP20_TempC:
+  type: FLOAT(5, 2)
+Soil_TP20_VMC:
+  type: FLOAT(5, 2)
+Soil_TP50_TempC:
+  type: FLOAT(5, 3)
+Soil_TP50_VMC:
+  type: FLOAT(5, 3)
